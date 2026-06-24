@@ -1,0 +1,9 @@
+{
+  "estado": "Datos recibidos",
+  "nombre": "Dairon",
+  "mensaje": "Hola comunidad"
+}
+
+La API devuelve una respuesta en formato JSON confirmando que los datos 
+fueron recibidos correctamente. En la respuesta se muestran los valores 
+enviados por el usuario en la petición POST

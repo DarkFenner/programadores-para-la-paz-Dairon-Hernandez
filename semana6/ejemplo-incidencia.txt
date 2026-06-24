@@ -1,0 +1,4 @@
+{
+  "tipo": "piso de parques",
+  "descripcion": "La comunidad reporta que los pisos del parque requiere de un lavado"
+}
