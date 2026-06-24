@@ -1,0 +1,22 @@
+
+EJEMPLO 1:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 3,
+    "tipo": "Aire",
+    "descripcion": "Exceso de fumadores en la zona"
+  }
+}
+
+EJEMPLO 2:
+
+{
+  "mensaje": "Reporte registrado",
+  "reporte": {
+    "id": 4,
+    "tipo": "Vegetacion",
+    "descripcion": "Exceso de maleza en la zona baja del espacio publico"
+  }
+}

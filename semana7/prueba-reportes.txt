@@ -1,0 +1,20 @@
+Al enviar una solicitud POST a la ruta https://fuzzy-space-invention-6wq9jjvxq9qfr545-3000.app.github.dev/reportes con el siguiente JSON:
+
+{
+  "tipo": "Infraestructura",
+  "descripcion": "Daño en alumbrado público"
+}
+
+el servidor registra un nuevo reporte y le asigna un identificador (id).
+
+Luego, al consultar la ruta GET https://fuzzy-space-invention-6wq9jjvxq9qfr545-3000.app.github.dev/reportes, el servidor devuelve la lista de reportes almacenados. En la respuesta aparece el reporte creado anteriormente con su id, tipo y descripción.
+
+respuesta:
+
+[
+  {
+    "id": 1,
+    "tipo": "Infraestructura",
+    "descripcion": "Daño en alumbrado público"
+  }
+]
