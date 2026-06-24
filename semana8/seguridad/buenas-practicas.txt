@@ -1,0 +1,3 @@
+Usar contraseñas Complejas
+No guardar nuestras contraseñas de manera digital
+Mantener nuestro antivirus en ultima version

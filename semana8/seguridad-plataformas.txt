@@ -1,0 +1,5 @@
+Activar la autenticación de dos factores para aumentar la seguridad de las cuentas.
+Mantener el sistema y las aplicaciones actualizadas para corregir vulnerabilidades.
+Realizar copias de seguridad periódicas de la información importante.
+Capacitar a los usuarios sobre riesgos como el phishing y la ingeniería social.
+Revisar y actualizar regularmente los permisos de acceso de los usuarios.
